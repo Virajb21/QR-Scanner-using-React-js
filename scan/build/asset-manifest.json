@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QR.git/static/css/main.b64a5995.css",
+    "main.js": "/QR.git/static/js/main.ffb29f37.js",
+    "static/js/787.47f814d0.chunk.js": "/QR.git/static/js/787.47f814d0.chunk.js",
+    "index.html": "/QR.git/index.html",
+    "main.b64a5995.css.map": "/QR.git/static/css/main.b64a5995.css.map",
+    "main.ffb29f37.js.map": "/QR.git/static/js/main.ffb29f37.js.map",
+    "787.47f814d0.chunk.js.map": "/QR.git/static/js/787.47f814d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b64a5995.css",
+    "static/js/main.ffb29f37.js"
+  ]
+}
