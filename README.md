@@ -1,4 +1,4 @@
-﻿# installing pacakages for QR-Scanner-using-React-js
+﻿# installing packages for QR-Scanner-using-React-js
 
 npm i bootstarp
 npm i qrcode
